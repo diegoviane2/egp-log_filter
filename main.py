@@ -73,17 +73,3 @@ with open('data.csv', 'w', encoding='UTF8') as f:
 print(yearly)
 print(count)
 print(cnt)
-
-
-
-            # for word in re.split(r'\s+', line):
-            #     print(line)
-    
-    
-    
-    # with open(file, 'r', encoding="UTF-8") as f:
-    #     lines = f.readlines()
-    #     for line in lines:
-    #         for word in line.split('\n'):
-    #             if word in line.split(':')== 'Engecard n�o respondendo':
-    #                 print(line)
